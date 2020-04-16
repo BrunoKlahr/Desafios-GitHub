@@ -1,0 +1,16 @@
+## Principais comandos Git
+
+-> git clone - Para baixar o projeto a primeira vez na sua máquina;
+-> git add . - Para adicionar os arquivos nos commits;
+-> git commit -m "Mensagem" - Para deixar uma mensagem de formalização das mudanças;
+-> git push - Para fazer o upload das mudanças para o GitHub;
+-> git pull - Para fazer o download do código atualizado;
+
+
+Links:
+
+- Conteúdos:
+https://gist.github.com/leocomelli/2545add34e4fec21ec16
+
+- Vídeos:
+https://www.youtube.com/watch?v=UbJLOn1PAKw
